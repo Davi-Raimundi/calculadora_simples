@@ -1,0 +1,39 @@
+programa
+{
+	
+	funcao inicio()
+	{
+		inteiro n1,n2,resultado=0
+		caracter operadores
+		
+
+		escreva("\n Digite um número : ")
+		leia(n1)
+
+		escreva("\n Qual operação deseja : +,-,*,/ :  ")
+		leia(operadores)
+
+		escreva("\n Digite outro número : ")
+		leia(n2)
+
+		se(operadores == '+')
+		{
+			resultado=n1+n2
+		}
+		se(operadores == '-')
+		{
+			resultado=n1-n2
+		}
+		se(operadores == '*')
+		{
+			resultado=n1*n2
+		}
+		se(operadores == '/')
+		{
+			resultado=n1/n2
+		}
+			
+		
+		escreva("O resultado é : ",resultado)
+	}
+}
