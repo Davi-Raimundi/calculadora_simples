@@ -1,0 +1,9 @@
+ Calculadora Simples
+
+Este projeto consiste em uma calculadora simples que permite ao usuário realizar operações básicas (adição, subtração, multiplicação e divisão) entre dois números inteiros. O usuário insere dois números e escolhe a operação desejada. O programa então calcula e exibe o resultado da operação.
+
+Funcionalidades:
+
+O usuário pode inserir dois números inteiros.
+O usuário escolhe uma operação entre adição, subtração, multiplicação ou divisão.
+O programa calcula e exibe o resultado da operação selecionada.
