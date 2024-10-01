@@ -1,0 +1,15 @@
+# Calculadora Simples
+
+Este é um programa de calculadora que permite ao usuário realizar operações aritméticas básicas entre dois números inteiros. É uma aplicação de console que demonstra interações com o usuário e uso de condicionais.
+
+## Funcionalidades
+
+- Permite ao usuário inserir dois números.
+- O usuário pode escolher uma operação: +, -, *, /.
+- Exibe o resultado da operação escolhida.
+
+## Como Usar
+
+1. Clone o repositório:
+   bash
+   git clone https://github.com/seu_usuario/seu_repositorio.git
